@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practice2</string>
+    <string name="button1">Список дел</string>
+    <string name="button2">анекдот</string>
+    <string name="dialog_settings_vol">диалог1</string>
+    <string name="dialog_settings_sense">диалог2</string>
+</resources>
